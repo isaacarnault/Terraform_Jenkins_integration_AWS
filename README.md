@@ -3,7 +3,7 @@
     • Programming: HCL (Terraform)
     • Repository: GitHub
     • Cloud: AWS
-    • Database: Jenkins
+    • CI/CD: Jenkins
     • Related gist: https://github.com/isaacarnault/terraform-jenkins/tree/master
   
 ### Gist writing, testing and debugging : 20 hrs
